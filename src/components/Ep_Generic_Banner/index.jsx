@@ -12,7 +12,7 @@ const InfoBanner = () => {
           variant='success'
           onDismiss={() => setShowBanner(false)}
           messages={[
-            'This is a Banner of type Paragragh (Field type) custom component designed from design.pega.com by Nagarjuna Reddy Mandati!'
+            'This is a Banner of type Paragraph (Field type) custom component designed from design.pega.com by Nagarjuna Reddy Mandati!'
           ]}
         />
       )}

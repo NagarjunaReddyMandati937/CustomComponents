@@ -4,7 +4,7 @@
     "server": "https://eclatprimedpl02.pegalabs.io/prweb",
     "user": "arjuncomponents",
     "password": "Eclat@1234",
-    "rulesetName": "CustomDXComponents",
+    "rulesetName": "MediaCo",
     "rulesetVersion": "01-01-01",
     "sourceOfComponents": "Server",
     "devBuild": false,
