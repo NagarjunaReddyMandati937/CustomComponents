@@ -50,6 +50,7 @@ export const formatExists = (formatterVal) => {
     "DateTime-Long",
     "DateTime-Short",
     "DateTime-Since",
+    "DateTime-DDMMYYYY",
     "Time-Only"
   ];
   let isformatter = false;
